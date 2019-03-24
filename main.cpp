@@ -15,6 +15,8 @@ int main()
     std::cout << " Helo Wolrd" << std::endl;
     std::cout << " Helo Wolrd" << std::endl;
     std::cout << " Helo Wolrd" << std::endl;
+    std::cout << " Helo Wolrd" << std::endl;
+    std::cout << " Helo Wolrd" << std::endl;
 
     return 0;
 }
